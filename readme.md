@@ -92,17 +92,3 @@ The project's goal is to optimize working capital management by leveraging accou
 - Analyze working capital figures to identify periods of positive or negative cash flow and assess overall liquidity.
 
 ---
-
-## Concepts Explored
-
-- Exploratory data analysis of accounts receivable and payable data.
-- Transforming and manipulating for financial predictive modeling.
-- Build regression models using various algorithms such as RandomForestRegressor, LinearRegressor, KNeighborsRegressor, GradientBoostingRegressor, and SVR.
-- Importance of different features in predicting payment timings.
-- Predicting and forecasting cash flow based on customer payments and supplier payments.
-- Optimize working capital by analyzing and managing the balance between accounts receivable and payable.
-- Communicate the results and insights derived from the predictive models.
-- Applying data analysis and predictive modeling techniques to real-world financial data.
-- Financial concepts, working capital management, and their impact on business performance.
-
----
